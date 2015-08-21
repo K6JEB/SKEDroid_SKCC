@@ -17,3 +17,8 @@ Note: The source code (.aia) files are not executable Android programs. The sour
 ### Kudos to MIT's App Inventor
 This application was made using the [MIT App Inventor](http://appinventor.mit.edu/explore/).
 
+### DEVICE ACCESS
+Do you want to install this application? It will get access to:
+*full network access
+*view network connections
+*vew Wi-Fi connections
