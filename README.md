@@ -19,6 +19,8 @@ This application was made using the [MIT App Inventor](http://appinventor.mit.ed
 
 ### DEVICE ACCESS
 Do you want to install this application? It will get access to:
--full network access
--view network connections
--vew Wi-Fi connections
+*full network access
+*view network connections
+*view Wi-Fi connections
+
+This access is solely for the application to view and interact with the SKCC Sked page.  
